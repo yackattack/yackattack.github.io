@@ -1,2 +1,0 @@
-# yackattack.github.io
-Boring.
